@@ -1,4 +1,4 @@
-# Algeo01-19149
+# Aljabar Linear
 
 Untuk Menjalankan Program silakan Jalankan Menu.class yang berada pada folder bin. (Penting, Program ini dicompile menggunakan JDK 14.0.1)
 Program ini berfungsi untuk Menyelesaikan SPL, Menghitung Determinan Matriks, dan Menghitung invers matriks.
