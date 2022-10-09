@@ -1,0 +1,81 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "ALIN-Kelompok 2_ebfb113a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matriks",
+            "request": "launch",
+            "mainClass": "Matriks",
+            "projectName": "Algeo01-19149-c9dd504f4f077868bc182f4d06418e8e716ab068_4bdf2444"
+        },
+        {
+            "type": "java",
+            "name": "Launch Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Algeo01-19149-c9dd504f4f077868bc182f4d06418e8e716ab068_4bdf2444"
+        },
+        {
+            "type": "java",
+            "name": "Launch SPL",
+            "request": "launch",
+            "mainClass": "SPL",
+            "projectName": "Algeo01-19149-c9dd504f4f077868bc182f4d06418e8e716ab068_4bdf2444"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Algeo01-19149_4ae0c060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Menu",
+            "request": "launch",
+            "mainClass": "src.Menu",
+            "projectName": "Algeo01-19149_9dfd172e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SPL",
+            "request": "launch",
+            "mainClass": "SPL",
+            "projectName": "Algeo01-19149_9dfd172e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Matriks",
+            "request": "launch",
+            "mainClass": "Matriks",
+            "projectName": "Algeo01-19149_9dfd172e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Menu<Algeo01-19149_9dfd172e>",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Algeo01-19149_9dfd172e",
+            "vmArgs": "--enable-preview"
+        }
+    ],
+    "logging": {
+        "engineLogging": true
+     }
+}
